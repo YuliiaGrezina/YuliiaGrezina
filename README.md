@@ -2,7 +2,7 @@
 My name is Yuliia Grezina!
 I am QA Engineer from St.Petersburg, Russia.
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="https://t.me/GrzJul">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
